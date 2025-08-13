@@ -1,7 +1,7 @@
 # IBM_Cognos_Analytics-Data_Positions_Average_Salary
 ENGLISH
 
-Just a quick practice and demonstraction of IBM Cognos Analytics, I'm just getting familiarized with the system
+Just a quick practice and demonstration of IBM Cognos Analytics, I'm just getting familiarized with the system
 
 This repository is just to save the report with a really quick explanation of the dataset and results
 
